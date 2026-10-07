@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 30" width="600" height="30">
+  <defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#F4A6C0" stop-opacity="0"/><stop offset=".5" stop-color="#E07A9E"/><stop offset="1" stop-color="#F4A6C0" stop-opacity="0"/></linearGradient></defs>
+  <rect x="20" y="14" width="245" height="1.5" fill="url(#l)"/>
+  <rect x="335" y="14" width="245" height="1.5" fill="url(#l)"/>
+  <text x="300" y="21" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#E07A9E">✧ ❦ ✧</text>
+</svg>
